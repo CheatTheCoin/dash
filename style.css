@@ -1,0 +1,21 @@
+body {
+  background: #111;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: orange;
+}
+
+.asset {
+  background: #222;
+  margin: 10px auto;
+  padding: 15px;
+  border-radius: 10px;
+  max-width: 300px;
+}
+
+.price-up { color: #4caf50; }
+.price-down { color: #f44336; }
